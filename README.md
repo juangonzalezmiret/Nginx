@@ -5,8 +5,8 @@ Voy a explicar la instalación y aplicación de Nginx.
 
 ## Índice:
 1. [ Introducción ](https://github.com/juangonzalezmiret/Nginx/blob/281f3da60aeee655af9634ce67cbdd150cbd34c0/1.%20Introduccion.md)
-2. [ Comparativa con Apache2 ]()
-3. [ Innstalación ]()
+2. [ Comparativa con Apache2 ](https://github.com/juangonzalezmiret/Nginx/blob/7a74ab3c567608ae41bfbea89d820bf2766a4674/2.%20ComparativaConApache.md)
+3. [ Instalación ]()
 4. [ Casos prácticos ]()
 5. [ Referencias ]()
 

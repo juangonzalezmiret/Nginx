@@ -1,7 +1,7 @@
 # Nginx
 
 ## Descripción del proyecto:
-Voy a explicar la instalación y aplicación de Nginx.
+Voy a explicar la instalación y aplicación de Nginx en Debian 11.
 
 ## Índice:
 1. [ Introducción ](https://github.com/juangonzalezmiret/Nginx/blob/281f3da60aeee655af9634ce67cbdd150cbd34c0/1.%20Introduccion.md)
